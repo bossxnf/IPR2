@@ -756,7 +756,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinj8KT_z7FwUCMwNyFGKXAeKPA9rnkwJ6yXvTuVjcu7YHzu6VjdkN1JDbNadY7gTSsQ6IdyRWYfqMjLvE6ftHORYm6GcaOJDyGASuoWrAon-ThWWnlOblD0Ptaq5ZhCxubAxSf_xn_F8wFh_-YS_hhHxjnp-ePfiPIqTJB-Lgt3iE49h9hp-qlzRbDhsM/s700/Trans7Logo.png" group-title="Test Ch",Trans 7ᴴᴰ
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinj8KT_z7FwUCMwNyFGKXAeKPA9rnkwJ6yXvTuVjcu7YHzu6VjdkN1JDbNadY7gTSsQ6IdyRWYfqMjLvE6ftHORYm6GcaOJDyGASuoWrAon-ThWWnlOblD0Ptaq5ZhCxubAxSf_xn_F8wFh_-YS_hhHxjnp-ePfiPIqTJB-Lgt3iE49h9hp-qlzRbDhsM/s700/Trans7Logo.png" group-title="Nasional",Trans 7ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}

@@ -759,18 +759,48 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinj8KT_z7FwUCMwNyFGKXAeKPA9rnkwJ6yXvTuVjcu7YHzu6VjdkN1JDbNadY7gTSsQ6IdyRWYfqMjLvE6ftHORYm6GcaOJDyGASuoWrAon-ThWWnlOblD0Ptaq5ZhCxubAxSf_xn_F8wFh_-YS_hhHxjnp-ePfiPIqTJB-Lgt3iE49h9hp-qlzRbDhsM/s700/Trans7Logo.png" group-title="Nasional",Trans 7ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Test Ch",Trans TV
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Test Ch", IDS: INDOSIAR VIP
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34327
 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="Test Ch",Trans 7
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Test Ch",Hub Premier1 FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Test Ch",Hub Premier2 FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Test Ch",Hub Premier3 FHD
+https://7pal.short.gy/HPremier3
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1 HD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Test Ch",UK: TNT Sports 1 HD
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147028
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2 HD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Test Ch",UK: TNT Sports 2 HD
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147029
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3 HD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Test Ch",UK: TNT Sports 3 HD
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147030
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 4 HD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Test Ch",UK: TNT Sports 4 HD
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147031
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Test Ch",UK: TNT SPORTS 5
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/146591
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 01
+http://lunar.pm:8080/Mrdon/4782314540/110288
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 02
+http://lunar.pm:8080/Mrdon/4782314540/110289
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 03
+http://lunar.pm:8080/Mrdon/4782314540/110290
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 04
+http://lunar.pm:8080/Mrdon/4782314540/110291
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 05
+http://lunar.pm:8080/Mrdon/4782314540/110292
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 06
+http://lunar.pm:8080/Mrdon/4782314540/110293
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 07
+http://lunar.pm:8080/Mrdon/4782314540/110294
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier EPL 08
+http://lunar.pm:8080/Mrdon/4782314540/110295
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier  EPL 09
+http://lunar.pm:8080/Mrdon/4782314540/110296
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier EPL 10
+http://lunar.pm:8080/Mrdon/4782314540/110297
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax",Hub Premier EPL 11
+http://lunar.pm:8080/Mrdon/4782314540/110298
+

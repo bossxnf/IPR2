@@ -761,3 +761,5 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO (TEST)
 https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest/scale-to-width-down/250?cb=20190715122142
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CARTOON NETWORK (TEST)
+http://176.118.197.101/Cartoon_Network/index.m3u8

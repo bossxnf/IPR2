@@ -737,20 +737,6 @@ https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibtXXF5nXrNjgBYGqC8DJ_ruymqVmSm4PHet-HHaS4vzIegOHd8KGa-vgqxz3Q5DVFlJXK8UUoWbhyphenhyphenKmB8l6zeGIeYfkRlm2nQGqdD_Cuw42CSQqxOiHD5KR3lluoLbyGaja0r81cPcIAF3IsuJiEOsaDu84VMdG6C6lTUx0a3pZqDSv-zZnlvOTi0GFM/s700/TransTVLogo.png" group-title="Test Ch",Trans TVᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgea2_pkEKNUboSprJKTbE_nzHeKc-pkSF3TgMvSbtwqQuumwLWaM8r36H2AKI7BmbnI_xbDohRLrMfQZkeit2HKL9fBuplavEGz2RXer75oiYZBspcAiEQdwwtm2M-Pe7_OsLXB_aORyygFtRDJoA3Q5IKwTvnyrHgs0Fhi0lT9YQe08ozrrePjXioW4g/s750/TransTV.png" group-title="Test Ch",Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinj8KT_z7FwUCMwNyFGKXAeKPA9rnkwJ6yXvTuVjcu7YHzu6VjdkN1JDbNadY7gTSsQ6IdyRWYfqMjLvE6ftHORYm6GcaOJDyGASuoWrAon-ThWWnlOblD0Ptaq5ZhCxubAxSf_xn_F8wFh_-YS_hhHxjnp-ePfiPIqTJB-Lgt3iE49h9hp-qlzRbDhsM/s700/Trans7Logo.png" group-title="Tes Channel",Trans 7ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Test Channel",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="Test Channel",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 1
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -766,39 +752,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 7
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CNBC INDONESIA (TEST) lolos
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CINEMAX (TEST)
-http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CINEMAX (TEST)
-http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CARTOON TV (TEST)
-https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CartoonTv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CARTOONITO (TEST)
-http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO (TEST)
-http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST) lolos
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
-https://bit.ly/IndonesiaEpg
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST) lolos
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO HITS (TEST)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO HITS (TEST)
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO HITS (TEST)
-https://bit.ly/AstroEpg
+
+==========================================================================
+⚠️ UJI COBA BOT
+==========================================================================
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", SCTV (TEST)
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8|Referer=http://sctvonline.vn/

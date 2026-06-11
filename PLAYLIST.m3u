@@ -758,3 +758,5 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 ==========================================================================
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", SCTV (TEST)
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", TSN1 (TEST)
+https://iptv-org.github.io/iptv/index.m3u

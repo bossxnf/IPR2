@@ -769,3 +769,5 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR (TEST)
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", FIFA+ (TEST)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8

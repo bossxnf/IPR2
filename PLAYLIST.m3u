@@ -813,3 +813,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b3
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CNBC INDONESIA (TEST)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CINEMAX (TEST)
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", CINEMAX (TEST)
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8

@@ -767,3 +767,5 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR (TEST)
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR (TEST)
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8

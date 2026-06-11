@@ -10,7 +10,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://iili.io/28yAlAN.png" group-title="Nasional", CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://github.com/bossxnf/IPR2/blob/main/Logo%20IPTV/CNN%20INDONESIA.png" group-title="Nasional", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
 
 EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://iili.io/JV3xSnt.png" group-title="Nasional", CNN Indonesia

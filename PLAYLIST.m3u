@@ -796,3 +796,11 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
 https://bit.ly/IndonesiaEpg
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO FAMILY (TEST)
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd

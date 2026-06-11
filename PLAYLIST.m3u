@@ -786,3 +786,13 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Ca
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO (TEST)
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", HBO SIGNATURE (TEST)
+https://bit.ly/IndonesiaEpg

@@ -700,4 +700,6 @@ https://iptv-org.github.io/iptv/index.m3u
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", Trans7 apasih
+https://m.vidio.com/live/734-trans7?type=m3u_plus&output=ts
 

@@ -733,6 +733,105 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 TRANSVISION
 ============================================================
 
+============================================================
+CCTV WONOSOBOKAB
+============================================================
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 Kodim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/bead7264-1d92-48af-9b1c-9eb9cffb60fb.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 Setda Selatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/3cc3fd74-60a5-4e9d-917c-84cececfe18b.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 Samsat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/e4e3c81b-030f-4ba4-965d-6df7b308fce8.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", JPO RITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/433b7d40-9e49-4f9c-ab03-94a01fcebddf.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 PLAZA SELATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/475943fa-35dd-47fa-9372-c2417e7d5ef0.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 PLAZA BARAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/f2503efd-4c91-4237-8b0e-9acc761228ea.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 PLAZA UTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/9d1fe5ab-a46f-4d88-a664-245c94f04398.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S4 PLAZA TIMUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/f1b564c9-6d43-4395-8e9b-94a7d1f3d233.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", S3 ANDONGSILI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/6f539207-8463-490c-ad24-22c796c855fc.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", TPR GARUNG 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/bfa1e42d-8eea-47ff-a5d3-02755be16dcd.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", TPR GARUNG 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/e65e588f-2b7d-4c7f-bde9-33d35c42b098.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", POS POLISI TIENG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/c0354cd3-84a9-4de9-9308-9d820636e941.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", BALAI DESA DIENG 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/96a0d373-1a38-41cb-bf44-5e0fdfea1dca.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", BALAI DESA DIENG 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/676ee44a-e78f-4293-a83a-01039b724130.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", PERTIGAAN PAHLAWAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/c470e297-eeb0-405f-b362-aa662bfd2c07.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", PKU MUHAMMADIYAH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/ed9415dd-4662-4b89-b5c1-edf2a0bd7ffe.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", PKU MUHAMMADIYAH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/aa674e87-4514-4f0d-826d-97d932954c2f.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", POS POLISI KERTEK 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/a48ccb53-937e-487c-8867-39b355ee048b.m3u8
+
+#EXTINF:-1 tvg-logo="channels/bead7264-1d92-48af-9b1c-9eb9cffb60fb/poster.png?t=1783616002189" group-title="CCTV Wonosobo", POS POLISI KERTEK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.wonosobokab.go.id/
+https://mata.wonosobokab.go.id/memfs/6edeb4fb-62ec-40f9-abd8-8cc130c22bb6.m3u8
+
+
 ==========================================================================
 ⚠️ UJI COBA BOT
 ==========================================================================

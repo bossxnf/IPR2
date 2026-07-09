@@ -17,9 +17,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950" group-title="Nasional", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
 
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -413,6 +410,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060afdef540bc/5e2d673bff2f48cc8b8bf76018911952.jpg" group-title="SPORTS",SPORTS TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="WorldCup 2026",TVRI SPORT
+http://157.15.187.3:25092/hls/63/63.m3u8
 
 ==========================================================================
   MOVIES
@@ -511,19 +510,19 @@ http://181.78.79.131:8000/play/a0pz
 FIFA+
 ==========================================
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 1
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 2
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 3
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 4
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 5
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 5
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ccaed1c9-27b5-11f0-a021-9a69a708a8a7
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 6
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 6
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="SPORTS", FIFA+ 7
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png" group-title="FIFA+", FIFA+ 7
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 =====================================================================
@@ -553,6 +552,8 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="" tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo-alt.png" group-title="WorldCup 2026",CazeTV
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CazeTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/fifa-world-cup-2026-logo-alt.png" group-title="WorldCup 2026",TVRI SPORT
+http://157.15.187.3:25092/hls/63/63.m3u8
 
 
 =====================================================================
@@ -694,14 +695,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ==========================================================================
 ⚠️ UJI COBA BOT
 ==========================================================================
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", TSN1 (TEST)
-https://iptv-org.github.io/iptv/index.m3u
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR (TEST)
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", Trans7 apasih
-https://m.vidio.com/live/734-trans7?type=m3u_plus&output=ts
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", TVRI SPORT TEST
-http://157.15.187.3:25092/hls/63/63.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", MOJI DIGITAL TEST
+https://cdn1.panensport.org/channel/500298550/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR DIGITAL TEST
+https://cdn1.panensport.org/channel/500162138/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", SCTV DIGITAL TEST
+https://cdn1.panensport.org/channel/500162141/index.m3u8

@@ -688,21 +688,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 
-==========================================================================
-⚠️ UJI COBA BOT
-==========================================================================
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", MOJI DIGITAL TEST
-https://cdn1.panensport.org/channel/500298550/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR DIGITAL TEST
-https://cdn1.panensport.org/channel/500162138/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", SCTV DIGITAL TEST
-https://cdn1.panensport.org/channel/500162141/index.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="⚠️ UJI COBA BOT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",INDOSIAR DIGITAL 2
+==========================================================
+INDONESIA CHANNEL 2
+==========================================================
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Indonesia Cadangan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",INDOSIAR DIGITAL 2
 http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="⚠️ UJI COBA BOT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",INDOSIAR DIGITAL 
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Indonesia Cadangan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",INDOSIAR DIGITAL 
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="⚠️ UJI COBA BOT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png", INDOSIAR VID
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Indonesia Cadangan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", INDOSIAR VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -713,3 +706,23 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+==========================================================================
+⚠️ UJI COBA BOT
+==========================================================================
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", MOJI DIGITAL TEST
+https://cdn1.panensport.org/channel/500298550/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR DIGITAL TEST
+https://cdn1.panensport.org/channel/500162138/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", SCTV DIGITAL TEST
+https://cdn1.panensport.org/channel/500162141/index.m3u8
+#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd

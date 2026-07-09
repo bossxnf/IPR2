@@ -5,6 +5,7 @@
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia4.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia5.xml"
 #EXTM3U tvg-url="https://www.open-epg.com/files/indonesia6.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
 
 
 ===========================================================================

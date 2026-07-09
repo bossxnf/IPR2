@@ -1,3 +1,5 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#EXTINF:-1 tvg-id="PERBAIKAN" tvg-name="PERBAIKAN" tvg-logo="" group-title="SEDANG DALAM PERBAIKAN", PERBAIKAN!!!
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://w7.pngwing.com/pngs/979/464/png-transparent-blue-and-black-computer-technician-laptop-computer-repair-technician-logo-home-repair-logos-computer-laptop-computer-hardware-thumbnail.png" tvg-id="digital.id" group-title="DALAM PERBAIKAN⚠️⚠️⚠️", DALAM PERBAIKAN⚠️⚠️⚠️
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/

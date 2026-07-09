@@ -1,5 +1,10 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia1.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia2.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia3.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia4.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia5.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia6.xml"
 
 
 ===========================================================================
@@ -139,7 +144,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
 ======================================================================================================================
@@ -710,19 +715,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 ==========================================================================
 ⚠️ UJI COBA BOT
 ==========================================================================
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", MOJI DIGITAL TEST
-https://cdn1.panensport.org/channel/500298550/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", INDOSIAR DIGITAL TEST
-https://cdn1.panensport.org/channel/500162138/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚠️ UJI COBA BOT", SCTV DIGITAL TEST
-https://cdn1.panensport.org/channel/500162141/index.m3u8
-#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
-#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
-#EXTINF:-1 group-title="⚠️ UJI COBA BOT" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="UJI COBA", FIFA World Cup (TVRI Nasional Digital 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://opplextv.cyou:8080/nasir6160/nasir/351047
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/7sVyTpC.jpeg" tvg-id="digital.id" group-title="UJI COBA", FIFA World Cup (TVRI Nasional Digital 2)
+EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8

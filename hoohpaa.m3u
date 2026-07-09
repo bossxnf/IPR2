@@ -123,7 +123,7 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-name="Trans 7 Digital (server 1)" tvg-logo="https://images.seeklogo.com/logo-png/32/1/trans-7-logo-png_seeklogo-326342.png" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports", Trans 7 Digital (server 1)
+#EXTINF:-1 tvg-name="Trans 7 Digital (server 1)" tvg-logo="https://images.seeklogo.com/logo-png/32/1/trans-7-logo-png_seeklogo-326342.png" tvg-id="Digital.id" group-title="Nasional", Trans 7 Digital (server 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
@@ -713,11 +713,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ==========================================================
 INDONESIA CHANNEL 2
 ==========================================================
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",INDOSIAR DIGITAL 2
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="ksg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",INDOSIAR DIGITAL 2
 http://103.148.44.38:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",INDOSIAR DIGITAL 
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="ksg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",INDOSIAR DIGITAL 
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", INDOSIAR VID
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="ksg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png", INDOSIAR VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml

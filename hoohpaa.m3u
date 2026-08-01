@@ -98,9 +98,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://iili.io/JMp3kla.png" group-title="Nasional", MNCTV V+
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://allcutv.rctiplus.id/mnctv2023.m3u8
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -907,3 +905,20 @@ http://opplextv.cyou:8080/nasir6160/nasir/351047
 EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/9x3uLMH.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", MNCTV Digital 1
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350996
+http://157.15.187.3:25092/hls/54/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9x3uLMH.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", MNCTV Digital 2
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9x3uLMH.jpeg" tvg-id="itzplay.id" group-title="Digital Sports", MNCTV Digital 3
+https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6SHCrs.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",GTV Digital 1
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350973
+http://157.15.187.3:25092/hls/57/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6SHCrs.jpeg" tvg-id="itzplay.id" group-title="Digital Sports",GTV Digital 2
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
